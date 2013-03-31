@@ -49,7 +49,7 @@ public class Minerim {
         }
         catch (Exception e)
         {
-            FMLLog.log(Level.SEVERE, e, "Minerim has a problem loading it's configuration");
+            FMLLog.log(Level.SEVERE, e, "Minerim has a problem loading its configuration");
         }
         finally
         {
